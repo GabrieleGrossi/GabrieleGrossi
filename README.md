@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 👋 Hello everyone! I'm Gabriele, a technology enthusiast and software developer. I'm a curious and creative programmer, always seeking new challenges and opportunities to enhance my skills.
 
-💻 My passion for programming has led me to explore various programming languages and frameworks, including [list the ones you're proficient in]. I'm particularly interested in projects involving web and mobile application development, but I'm open to new areas and technologies.
+💻 My passion for programming has led me to explore various programming languages and frameworks, including Bootstrap, Laravel, Vue.js and Node.js . I'm particularly interested in projects involving web and mobile application development, but I'm open to new areas and technologies.
 
 🚀 Throughout my development journey, I've learned to tackle complex problems and work in teams. I believe in the power of collaboration and value clear communication and effective planning to achieve common goals.
 
